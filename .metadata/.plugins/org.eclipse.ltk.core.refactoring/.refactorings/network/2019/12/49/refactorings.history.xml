@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;network.SeverEx.java&apos; to &apos;ServerEx.java&apos;&#x0D;&#x0A;- Original project: &apos;network&apos;&#x0D;&#x0A;- Original element: &apos;network.SeverEx.java&apos;&#x0D;&#x0A;- Renamed element: &apos;network.ServerEx.java&apos;" description="Rename compilation unit &apos;SeverEx.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;network{SeverEx.java" name="ServerEx.java" references="false" stamp="1575520970583" version="1.0"/>
+</session>

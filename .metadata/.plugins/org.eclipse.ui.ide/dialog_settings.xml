@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="D:\source\repos\JAVA\2학년\정규수업\WPtest"/>
+		<item value="D:\source\repos\JAVA\2학년\정규수업\Thread"/>
+		<item value="D:\source\repos\JAVA\2학년\정규수업\PremiereComponent"/>
+		<item value="D:\source\repos\JAVA\2학년\정규수업\network"/>
+		<item value="D:\source\repos\JAVA\2학년\정규수업\Graphics"/>
+		<item value="D:\source\repos\JAVA\2학년\정규수업\FileOutputStreamEx"/>
+		<item value="D:\source\repos\JAVA\2학년\정규수업\ComponentEx"/>
+		<item value="D:\source\repos\JAVA\2학년\정규수업\Calculator"/>
+		<item value="D:\source\repos\JAVA\2학년\정규수업\2214_-514"/>
+		<item value="D:\source\repos\JAVA\2학년\정규수업\2214_0514"/>
+		<item value="D:\source\repos\JAVA\2학년\정규수업\2214_0507"/>
+		<item value="D:\source\repos\JAVA\2학년\정규수업\2214_0416(java.io)"/>
+		<item value="D:\source\repos\JAVA\2학년\정규수업\2214_0409(예외처리)"/>
+		<item value="D:\source\repos\JAVA\2학년\정규수업\2214_0328"/>
+		<item value="D:\source\repos\JAVA\2학년\정규수업\2214"/>
+		<item value="D:\source\repos\JAVA\2학년\정규수업\0528_GUIEvent"/>
+		<item value="D:\source\repos\JAVA\2학년\정규수업\0521_GUI"/>
+	</list>
+	<section name="CleanDialogSettings">
+		<item value="666" key="DIALOG_WIDTH"/>
+		<item value="true" key="TOGGLE_SELECTED"/>
+		<item value="505" key="DIALOG_HEIGHT"/>
+		<item value="627" key="DIALOG_X_ORIGIN"/>
+		<item value="174" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+</section>
